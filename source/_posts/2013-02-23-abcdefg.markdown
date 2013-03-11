@@ -1,0 +1,8 @@
+---
+layout: post
+title: "abcdefg"
+date: 2013-02-23 17:00
+comments: true
+categories: 
+---
+啊哈哈

@@ -1,11 +1,11 @@
-# ----------------------- #
+﻿# ----------------------- #
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://stoneark86.github.com
+title: StoneArk86's Blog
+subtitle: StoneArk's Tech Log
+author: StoneArk86
 simple_search: http://google.com/search
 description:
 
